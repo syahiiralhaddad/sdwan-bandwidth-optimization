@@ -1,0 +1,1684 @@
+{
+ "data": [
+  {
+   "entry_time": 1709251200000,
+   "count": 256,
+   "interface": "10ge0/0",
+   "tx_kbps": 932.264518,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1709251200000,
+   "count": 256,
+   "interface": "ge2/0",
+   "tx_kbps": 918.748284,
+   "rx_kbps": 4332.056121
+  },
+  {
+   "entry_time": 1709251200000,
+   "count": 256,
+   "interface": "ge2/1",
+   "tx_kbps": 1057.202896,
+   "rx_kbps": 5246.91201
+  },
+  {
+   "entry_time": 1709251200000,
+   "count": 256,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.995078
+  },
+  {
+   "entry_time": 1709251200000,
+   "count": 256,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1709337600000,
+   "count": 283,
+   "interface": "10ge0/0",
+   "tx_kbps": 460.892654,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1709337600000,
+   "count": 283,
+   "interface": "ge2/0",
+   "tx_kbps": 556.532375,
+   "rx_kbps": 2914.599186
+  },
+  {
+   "entry_time": 1709337600000,
+   "count": 283,
+   "interface": "ge2/1",
+   "tx_kbps": 589.824772,
+   "rx_kbps": 2864.535674
+  },
+  {
+   "entry_time": 1709337600000,
+   "count": 283,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.986558
+  },
+  {
+   "entry_time": 1709337600000,
+   "count": 283,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1709424000000,
+   "count": 287,
+   "interface": "10ge0/0",
+   "tx_kbps": 386.652178,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1709424000000,
+   "count": 287,
+   "interface": "ge2/0",
+   "tx_kbps": 446.945736,
+   "rx_kbps": 2014.167708
+  },
+  {
+   "entry_time": 1709424000000,
+   "count": 287,
+   "interface": "ge2/1",
+   "tx_kbps": 566.333658,
+   "rx_kbps": 4837.280786
+  },
+  {
+   "entry_time": 1709424000000,
+   "count": 287,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.974832
+  },
+  {
+   "entry_time": 1709424000000,
+   "count": 287,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1709510400000,
+   "count": 287,
+   "interface": "10ge0/0",
+   "tx_kbps": 856.973948,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1709510400000,
+   "count": 287,
+   "interface": "ge2/0",
+   "tx_kbps": 961.471368,
+   "rx_kbps": 5176.511411
+  },
+  {
+   "entry_time": 1709510400000,
+   "count": 287,
+   "interface": "ge2/1",
+   "tx_kbps": 1151.565192,
+   "rx_kbps": 4516.616711
+  },
+  {
+   "entry_time": 1709510400000,
+   "count": 287,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.010609
+  },
+  {
+   "entry_time": 1709510400000,
+   "count": 287,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1709596800000,
+   "count": 285,
+   "interface": "10ge0/0",
+   "tx_kbps": 918.00336,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1709596800000,
+   "count": 285,
+   "interface": "ge2/0",
+   "tx_kbps": 1076.040136,
+   "rx_kbps": 4671.794868
+  },
+  {
+   "entry_time": 1709596800000,
+   "count": 285,
+   "interface": "ge2/1",
+   "tx_kbps": 1245.088601,
+   "rx_kbps": 5375.743779
+  },
+  {
+   "entry_time": 1709596800000,
+   "count": 285,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.000761
+  },
+  {
+   "entry_time": 1709596800000,
+   "count": 285,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1709683200000,
+   "count": 278,
+   "interface": "10ge0/0",
+   "tx_kbps": 1078.155517,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1709683200000,
+   "count": 278,
+   "interface": "ge2/0",
+   "tx_kbps": 796.834272,
+   "rx_kbps": 5813.873126
+  },
+  {
+   "entry_time": 1709683200000,
+   "count": 278,
+   "interface": "ge2/1",
+   "tx_kbps": 1140.857111,
+   "rx_kbps": 6963.134653
+  },
+  {
+   "entry_time": 1709683200000,
+   "count": 278,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.988007
+  },
+  {
+   "entry_time": 1709683200000,
+   "count": 278,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1709769600000,
+   "count": 284,
+   "interface": "10ge0/0",
+   "tx_kbps": 996.924644,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1709769600000,
+   "count": 284,
+   "interface": "ge2/0",
+   "tx_kbps": 961.904076,
+   "rx_kbps": 5710.621278
+  },
+  {
+   "entry_time": 1709769600000,
+   "count": 284,
+   "interface": "ge2/1",
+   "tx_kbps": 1342.74266,
+   "rx_kbps": 6549.641336
+  },
+  {
+   "entry_time": 1709769600000,
+   "count": 284,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.002031
+  },
+  {
+   "entry_time": 1709769600000,
+   "count": 284,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1709856000000,
+   "count": 278,
+   "interface": "10ge0/0",
+   "tx_kbps": 885.661219,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1709856000000,
+   "count": 278,
+   "interface": "ge2/0",
+   "tx_kbps": 1005.01796,
+   "rx_kbps": 4282.207476
+  },
+  {
+   "entry_time": 1709856000000,
+   "count": 278,
+   "interface": "ge2/1",
+   "tx_kbps": 1220.961187,
+   "rx_kbps": 6148.879325
+  },
+  {
+   "entry_time": 1709856000000,
+   "count": 278,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.986765
+  },
+  {
+   "entry_time": 1709856000000,
+   "count": 278,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1709942400000,
+   "count": 270,
+   "interface": "10ge0/0",
+   "tx_kbps": 559.030514,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1709942400000,
+   "count": 270,
+   "interface": "ge2/0",
+   "tx_kbps": 416.658893,
+   "rx_kbps": 2681.771667
+  },
+  {
+   "entry_time": 1709942400000,
+   "count": 270,
+   "interface": "ge2/1",
+   "tx_kbps": 796.014254,
+   "rx_kbps": 3307.230478
+  },
+  {
+   "entry_time": 1709942400000,
+   "count": 270,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.996314
+  },
+  {
+   "entry_time": 1709942400000,
+   "count": 270,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1710028800000,
+   "count": 284,
+   "interface": "10ge0/0",
+   "tx_kbps": 506.065866,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1710028800000,
+   "count": 284,
+   "interface": "ge2/0",
+   "tx_kbps": 651.398659,
+   "rx_kbps": 2712.405456
+  },
+  {
+   "entry_time": 1710028800000,
+   "count": 284,
+   "interface": "ge2/1",
+   "tx_kbps": 725.073007,
+   "rx_kbps": 2959.831711
+  },
+  {
+   "entry_time": 1710028800000,
+   "count": 284,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.988859
+  },
+  {
+   "entry_time": 1710028800000,
+   "count": 284,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1710115200000,
+   "count": 271,
+   "interface": "10ge0/0",
+   "tx_kbps": 903.218822,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1710115200000,
+   "count": 271,
+   "interface": "ge2/0",
+   "tx_kbps": 1147.91488,
+   "rx_kbps": 5819.20536
+  },
+  {
+   "entry_time": 1710115200000,
+   "count": 271,
+   "interface": "ge2/1",
+   "tx_kbps": 1374.021679,
+   "rx_kbps": 5230.995855
+  },
+  {
+   "entry_time": 1710115200000,
+   "count": 271,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.999946
+  },
+  {
+   "entry_time": 1710115200000,
+   "count": 271,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1710201600000,
+   "count": 278,
+   "interface": "10ge0/0",
+   "tx_kbps": 1026.563644,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1710201600000,
+   "count": 278,
+   "interface": "ge2/0",
+   "tx_kbps": 855.825489,
+   "rx_kbps": 5607.170699
+  },
+  {
+   "entry_time": 1710201600000,
+   "count": 278,
+   "interface": "ge2/1",
+   "tx_kbps": 966.768866,
+   "rx_kbps": 5290.033566
+  },
+  {
+   "entry_time": 1710201600000,
+   "count": 278,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.001641
+  },
+  {
+   "entry_time": 1710201600000,
+   "count": 278,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1710288000000,
+   "count": 279,
+   "interface": "10ge0/0",
+   "tx_kbps": 868.506417,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1710288000000,
+   "count": 279,
+   "interface": "ge2/0",
+   "tx_kbps": 942.149102,
+   "rx_kbps": 5525.144773
+  },
+  {
+   "entry_time": 1710288000000,
+   "count": 279,
+   "interface": "ge2/1",
+   "tx_kbps": 1259.168548,
+   "rx_kbps": 5402.209295
+  },
+  {
+   "entry_time": 1710288000000,
+   "count": 279,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.005199
+  },
+  {
+   "entry_time": 1710288000000,
+   "count": 279,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1710374400000,
+   "count": 289,
+   "interface": "10ge0/0",
+   "tx_kbps": 849.855325,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1710374400000,
+   "count": 289,
+   "interface": "ge2/0",
+   "tx_kbps": 1014.369249,
+   "rx_kbps": 5418.529417
+  },
+  {
+   "entry_time": 1710374400000,
+   "count": 289,
+   "interface": "ge2/1",
+   "tx_kbps": 1333.935343,
+   "rx_kbps": 4884.195876
+  },
+  {
+   "entry_time": 1710374400000,
+   "count": 289,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.001927
+  },
+  {
+   "entry_time": 1710374400000,
+   "count": 289,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1710460800000,
+   "count": 289,
+   "interface": "10ge0/0",
+   "tx_kbps": 906.407129,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1710460800000,
+   "count": 289,
+   "interface": "ge2/0",
+   "tx_kbps": 1015.142672,
+   "rx_kbps": 3795.832264
+  },
+  {
+   "entry_time": 1710460800000,
+   "count": 289,
+   "interface": "ge2/1",
+   "tx_kbps": 1357.437841,
+   "rx_kbps": 3837.053995
+  },
+  {
+   "entry_time": 1710460800000,
+   "count": 289,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.982539
+  },
+  {
+   "entry_time": 1710460800000,
+   "count": 289,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1710547200000,
+   "count": 283,
+   "interface": "10ge0/0",
+   "tx_kbps": 588.545791,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1710547200000,
+   "count": 283,
+   "interface": "ge2/0",
+   "tx_kbps": 511.741196,
+   "rx_kbps": 3347.753866
+  },
+  {
+   "entry_time": 1710547200000,
+   "count": 283,
+   "interface": "ge2/1",
+   "tx_kbps": 586.728113,
+   "rx_kbps": 3701.514447
+  },
+  {
+   "entry_time": 1710547200000,
+   "count": 283,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.999342
+  },
+  {
+   "entry_time": 1710547200000,
+   "count": 283,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1710633600000,
+   "count": 290,
+   "interface": "10ge0/0",
+   "tx_kbps": 532.112277,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1710633600000,
+   "count": 290,
+   "interface": "ge2/0",
+   "tx_kbps": 505.648313,
+   "rx_kbps": 3510.671074
+  },
+  {
+   "entry_time": 1710633600000,
+   "count": 290,
+   "interface": "ge2/1",
+   "tx_kbps": 718.916508,
+   "rx_kbps": 2761.564724
+  },
+  {
+   "entry_time": 1710633600000,
+   "count": 290,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.987223
+  },
+  {
+   "entry_time": 1710633600000,
+   "count": 290,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1710720000000,
+   "count": 281,
+   "interface": "10ge0/0",
+   "tx_kbps": 1141.411361,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1710720000000,
+   "count": 281,
+   "interface": "ge2/0",
+   "tx_kbps": 1027.542286,
+   "rx_kbps": 6308.334218
+  },
+  {
+   "entry_time": 1710720000000,
+   "count": 281,
+   "interface": "ge2/1",
+   "tx_kbps": 1212.206493,
+   "rx_kbps": 5449.594418
+  },
+  {
+   "entry_time": 1710720000000,
+   "count": 281,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.00008
+  },
+  {
+   "entry_time": 1710720000000,
+   "count": 281,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1710806400000,
+   "count": 276,
+   "interface": "10ge0/0",
+   "tx_kbps": 961.310168,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1710806400000,
+   "count": 276,
+   "interface": "ge2/0",
+   "tx_kbps": 878.469474,
+   "rx_kbps": 4869.511034
+  },
+  {
+   "entry_time": 1710806400000,
+   "count": 276,
+   "interface": "ge2/1",
+   "tx_kbps": 1222.503398,
+   "rx_kbps": 4850.609985
+  },
+  {
+   "entry_time": 1710806400000,
+   "count": 276,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.992371
+  },
+  {
+   "entry_time": 1710806400000,
+   "count": 276,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1710892800000,
+   "count": 277,
+   "interface": "10ge0/0",
+   "tx_kbps": 1171.911733,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1710892800000,
+   "count": 277,
+   "interface": "ge2/0",
+   "tx_kbps": 873.64473,
+   "rx_kbps": 5395.779996
+  },
+  {
+   "entry_time": 1710892800000,
+   "count": 277,
+   "interface": "ge2/1",
+   "tx_kbps": 1054.3043,
+   "rx_kbps": 6431.392516
+  },
+  {
+   "entry_time": 1710892800000,
+   "count": 277,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.000714
+  },
+  {
+   "entry_time": 1710892800000,
+   "count": 277,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1710979200000,
+   "count": 271,
+   "interface": "10ge0/0",
+   "tx_kbps": 1063.010692,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1710979200000,
+   "count": 271,
+   "interface": "ge2/0",
+   "tx_kbps": 995.142514,
+   "rx_kbps": 5479.961305
+  },
+  {
+   "entry_time": 1710979200000,
+   "count": 271,
+   "interface": "ge2/1",
+   "tx_kbps": 1147.866947,
+   "rx_kbps": 6990.720629
+  },
+  {
+   "entry_time": 1710979200000,
+   "count": 271,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.002917
+  },
+  {
+   "entry_time": 1710979200000,
+   "count": 271,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1711065600000,
+   "count": 274,
+   "interface": "10ge0/0",
+   "tx_kbps": 1009.290813,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1711065600000,
+   "count": 274,
+   "interface": "ge2/0",
+   "tx_kbps": 1013.072837,
+   "rx_kbps": 7344.450962
+  },
+  {
+   "entry_time": 1711065600000,
+   "count": 274,
+   "interface": "ge2/1",
+   "tx_kbps": 1326.644321,
+   "rx_kbps": 5874.716749
+  },
+  {
+   "entry_time": 1711065600000,
+   "count": 274,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.006805
+  },
+  {
+   "entry_time": 1711065600000,
+   "count": 274,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1711152000000,
+   "count": 291,
+   "interface": "10ge0/0",
+   "tx_kbps": 522.445009,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1711152000000,
+   "count": 291,
+   "interface": "ge2/0",
+   "tx_kbps": 493.382835,
+   "rx_kbps": 3556.383002
+  },
+  {
+   "entry_time": 1711152000000,
+   "count": 291,
+   "interface": "ge2/1",
+   "tx_kbps": 734.504873,
+   "rx_kbps": 3500.673966
+  },
+  {
+   "entry_time": 1711152000000,
+   "count": 291,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.008312
+  },
+  {
+   "entry_time": 1711152000000,
+   "count": 291,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1711238400000,
+   "count": 282,
+   "interface": "10ge0/0",
+   "tx_kbps": 625.592943,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1711238400000,
+   "count": 282,
+   "interface": "ge2/0",
+   "tx_kbps": 562.095496,
+   "rx_kbps": 3840.666192
+  },
+  {
+   "entry_time": 1711238400000,
+   "count": 282,
+   "interface": "ge2/1",
+   "tx_kbps": 828.746756,
+   "rx_kbps": 3495.818629
+  },
+  {
+   "entry_time": 1711238400000,
+   "count": 282,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.01879
+  },
+  {
+   "entry_time": 1711238400000,
+   "count": 282,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1711324800000,
+   "count": 289,
+   "interface": "10ge0/0",
+   "tx_kbps": 888.111103,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1711324800000,
+   "count": 289,
+   "interface": "ge2/0",
+   "tx_kbps": 866.570207,
+   "rx_kbps": 6420.890813
+  },
+  {
+   "entry_time": 1711324800000,
+   "count": 289,
+   "interface": "ge2/1",
+   "tx_kbps": 1370.756386,
+   "rx_kbps": 6698.105622
+  },
+  {
+   "entry_time": 1711324800000,
+   "count": 289,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.9789
+  },
+  {
+   "entry_time": 1711324800000,
+   "count": 289,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1711411200000,
+   "count": 288,
+   "interface": "10ge0/0",
+   "tx_kbps": 1067.204938,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1711411200000,
+   "count": 288,
+   "interface": "ge2/0",
+   "tx_kbps": 1098.31899,
+   "rx_kbps": 5537.994851
+  },
+  {
+   "entry_time": 1711411200000,
+   "count": 288,
+   "interface": "ge2/1",
+   "tx_kbps": 1237.498615,
+   "rx_kbps": 4622.395517
+  },
+  {
+   "entry_time": 1711411200000,
+   "count": 288,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.990283
+  },
+  {
+   "entry_time": 1711411200000,
+   "count": 288,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1711497600000,
+   "count": 287,
+   "interface": "10ge0/0",
+   "tx_kbps": 1103.53327,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1711497600000,
+   "count": 287,
+   "interface": "ge2/0",
+   "tx_kbps": 1090.108643,
+   "rx_kbps": 6132.460241
+  },
+  {
+   "entry_time": 1711497600000,
+   "count": 287,
+   "interface": "ge2/1",
+   "tx_kbps": 1277.656901,
+   "rx_kbps": 5110.382883
+  },
+  {
+   "entry_time": 1711497600000,
+   "count": 287,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.001954
+  },
+  {
+   "entry_time": 1711497600000,
+   "count": 287,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1711584000000,
+   "count": 272,
+   "interface": "10ge0/0",
+   "tx_kbps": 947.539818,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1711584000000,
+   "count": 272,
+   "interface": "ge2/0",
+   "tx_kbps": 1151.067389,
+   "rx_kbps": 6106.097289
+  },
+  {
+   "entry_time": 1711584000000,
+   "count": 272,
+   "interface": "ge2/1",
+   "tx_kbps": 1161.347395,
+   "rx_kbps": 6847.159199
+  },
+  {
+   "entry_time": 1711584000000,
+   "count": 272,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.99986
+  },
+  {
+   "entry_time": 1711584000000,
+   "count": 272,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1711670400000,
+   "count": 289,
+   "interface": "10ge0/0",
+   "tx_kbps": 993.149312,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1711670400000,
+   "count": 289,
+   "interface": "ge2/0",
+   "tx_kbps": 1208.558202,
+   "rx_kbps": 5767.748946
+  },
+  {
+   "entry_time": 1711670400000,
+   "count": 289,
+   "interface": "ge2/1",
+   "tx_kbps": 1352.70378,
+   "rx_kbps": 7125.459222
+  },
+  {
+   "entry_time": 1711670400000,
+   "count": 289,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.977996
+  },
+  {
+   "entry_time": 1711670400000,
+   "count": 289,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1711756800000,
+   "count": 280,
+   "interface": "10ge0/0",
+   "tx_kbps": 532.867905,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1711756800000,
+   "count": 280,
+   "interface": "ge2/0",
+   "tx_kbps": 468.492276,
+   "rx_kbps": 1653.909661
+  },
+  {
+   "entry_time": 1711756800000,
+   "count": 280,
+   "interface": "ge2/1",
+   "tx_kbps": 898.835462,
+   "rx_kbps": 3381.371752
+  },
+  {
+   "entry_time": 1711756800000,
+   "count": 280,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.990593
+  },
+  {
+   "entry_time": 1711756800000,
+   "count": 280,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1711843200000,
+   "count": 273,
+   "interface": "10ge0/0",
+   "tx_kbps": 595.148365,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1711843200000,
+   "count": 273,
+   "interface": "ge2/0",
+   "tx_kbps": 620.101272,
+   "rx_kbps": 3218.977474
+  },
+  {
+   "entry_time": 1711843200000,
+   "count": 273,
+   "interface": "ge2/1",
+   "tx_kbps": 854.06999,
+   "rx_kbps": 3654.520617
+  },
+  {
+   "entry_time": 1711843200000,
+   "count": 273,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.989571
+  },
+  {
+   "entry_time": 1711843200000,
+   "count": 273,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1711929600000,
+   "count": 271,
+   "interface": "10ge0/0",
+   "tx_kbps": 1132.866899,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1711929600000,
+   "count": 271,
+   "interface": "ge2/0",
+   "tx_kbps": 1034.187058,
+   "rx_kbps": 6902.975729
+  },
+  {
+   "entry_time": 1711929600000,
+   "count": 271,
+   "interface": "ge2/1",
+   "tx_kbps": 1399.696539,
+   "rx_kbps": 6160.392997
+  },
+  {
+   "entry_time": 1711929600000,
+   "count": 271,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.01722
+  },
+  {
+   "entry_time": 1711929600000,
+   "count": 271,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1712016000000,
+   "count": 284,
+   "interface": "10ge0/0",
+   "tx_kbps": 1013.120081,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1712016000000,
+   "count": 284,
+   "interface": "ge2/0",
+   "tx_kbps": 1237.267646,
+   "rx_kbps": 6298.536406
+  },
+  {
+   "entry_time": 1712016000000,
+   "count": 284,
+   "interface": "ge2/1",
+   "tx_kbps": 1473.380319,
+   "rx_kbps": 6141.364728
+  },
+  {
+   "entry_time": 1712016000000,
+   "count": 284,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.989231
+  },
+  {
+   "entry_time": 1712016000000,
+   "count": 284,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1712102400000,
+   "count": 286,
+   "interface": "10ge0/0",
+   "tx_kbps": 1043.350802,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1712102400000,
+   "count": 286,
+   "interface": "ge2/0",
+   "tx_kbps": 1113.754844,
+   "rx_kbps": 7057.502654
+  },
+  {
+   "entry_time": 1712102400000,
+   "count": 286,
+   "interface": "ge2/1",
+   "tx_kbps": 1436.641691,
+   "rx_kbps": 7658.330725
+  },
+  {
+   "entry_time": 1712102400000,
+   "count": 286,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.996106
+  },
+  {
+   "entry_time": 1712102400000,
+   "count": 286,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1712188800000,
+   "count": 272,
+   "interface": "10ge0/0",
+   "tx_kbps": 1287.633971,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1712188800000,
+   "count": 272,
+   "interface": "ge2/0",
+   "tx_kbps": 1276.160404,
+   "rx_kbps": 6847.913784
+  },
+  {
+   "entry_time": 1712188800000,
+   "count": 272,
+   "interface": "ge2/1",
+   "tx_kbps": 1463.897122,
+   "rx_kbps": 6463.169973
+  },
+  {
+   "entry_time": 1712188800000,
+   "count": 272,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.997964
+  },
+  {
+   "entry_time": 1712188800000,
+   "count": 272,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1712275200000,
+   "count": 285,
+   "interface": "10ge0/0",
+   "tx_kbps": 1096.096396,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1712275200000,
+   "count": 285,
+   "interface": "ge2/0",
+   "tx_kbps": 1358.041763,
+   "rx_kbps": 6554.286771
+  },
+  {
+   "entry_time": 1712275200000,
+   "count": 285,
+   "interface": "ge2/1",
+   "tx_kbps": 1351.046729,
+   "rx_kbps": 5692.688428
+  },
+  {
+   "entry_time": 1712275200000,
+   "count": 285,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.005067
+  },
+  {
+   "entry_time": 1712275200000,
+   "count": 285,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1712361600000,
+   "count": 272,
+   "interface": "10ge0/0",
+   "tx_kbps": 576.915147,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1712361600000,
+   "count": 272,
+   "interface": "ge2/0",
+   "tx_kbps": 550.802219,
+   "rx_kbps": 3310.462243
+  },
+  {
+   "entry_time": 1712361600000,
+   "count": 272,
+   "interface": "ge2/1",
+   "tx_kbps": 764.755837,
+   "rx_kbps": 3359.215725
+  },
+  {
+   "entry_time": 1712361600000,
+   "count": 272,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.001096
+  },
+  {
+   "entry_time": 1712361600000,
+   "count": 272,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1712448000000,
+   "count": 278,
+   "interface": "10ge0/0",
+   "tx_kbps": 489.258438,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1712448000000,
+   "count": 278,
+   "interface": "ge2/0",
+   "tx_kbps": 620.45892,
+   "rx_kbps": 2929.820579
+  },
+  {
+   "entry_time": 1712448000000,
+   "count": 278,
+   "interface": "ge2/1",
+   "tx_kbps": 731.939611,
+   "rx_kbps": 3797.429833
+  },
+  {
+   "entry_time": 1712448000000,
+   "count": 278,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.996864
+  },
+  {
+   "entry_time": 1712448000000,
+   "count": 278,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1712534400000,
+   "count": 281,
+   "interface": "10ge0/0",
+   "tx_kbps": 1130.588512,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1712534400000,
+   "count": 281,
+   "interface": "ge2/0",
+   "tx_kbps": 1166.315952,
+   "rx_kbps": 5224.879344
+  },
+  {
+   "entry_time": 1712534400000,
+   "count": 281,
+   "interface": "ge2/1",
+   "tx_kbps": 1830.007735,
+   "rx_kbps": 6138.370006
+  },
+  {
+   "entry_time": 1712534400000,
+   "count": 281,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.989551
+  },
+  {
+   "entry_time": 1712534400000,
+   "count": 281,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1712620800000,
+   "count": 282,
+   "interface": "10ge0/0",
+   "tx_kbps": 1153.125556,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1712620800000,
+   "count": 282,
+   "interface": "ge2/0",
+   "tx_kbps": 996.880373,
+   "rx_kbps": 5145.535337
+  },
+  {
+   "entry_time": 1712620800000,
+   "count": 282,
+   "interface": "ge2/1",
+   "tx_kbps": 1319.904613,
+   "rx_kbps": 7457.628288
+  },
+  {
+   "entry_time": 1712620800000,
+   "count": 282,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.002593
+  },
+  {
+   "entry_time": 1712620800000,
+   "count": 282,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1712707200000,
+   "count": 275,
+   "interface": "10ge0/0",
+   "tx_kbps": 1377.445446,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1712707200000,
+   "count": 275,
+   "interface": "ge2/0",
+   "tx_kbps": 1150.190473,
+   "rx_kbps": 5648.504609
+  },
+  {
+   "entry_time": 1712707200000,
+   "count": 275,
+   "interface": "ge2/1",
+   "tx_kbps": 1371.190063,
+   "rx_kbps": 6488.339088
+  },
+  {
+   "entry_time": 1712707200000,
+   "count": 275,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.009596
+  },
+  {
+   "entry_time": 1712707200000,
+   "count": 275,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1712793600000,
+   "count": 290,
+   "interface": "10ge0/0",
+   "tx_kbps": 994.624666,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1712793600000,
+   "count": 290,
+   "interface": "ge2/0",
+   "tx_kbps": 1062.199059,
+   "rx_kbps": 5758.851986
+  },
+  {
+   "entry_time": 1712793600000,
+   "count": 290,
+   "interface": "ge2/1",
+   "tx_kbps": 1458.362203,
+   "rx_kbps": 6687.6235
+  },
+  {
+   "entry_time": 1712793600000,
+   "count": 290,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.997012
+  },
+  {
+   "entry_time": 1712793600000,
+   "count": 290,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1712880000000,
+   "count": 285,
+   "interface": "10ge0/0",
+   "tx_kbps": 1154.734595,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1712880000000,
+   "count": 285,
+   "interface": "ge2/0",
+   "tx_kbps": 1177.415172,
+   "rx_kbps": 6732.806092
+  },
+  {
+   "entry_time": 1712880000000,
+   "count": 285,
+   "interface": "ge2/1",
+   "tx_kbps": 1609.125499,
+   "rx_kbps": 6564.902347
+  },
+  {
+   "entry_time": 1712880000000,
+   "count": 285,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.00388
+  },
+  {
+   "entry_time": 1712880000000,
+   "count": 285,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1712966400000,
+   "count": 283,
+   "interface": "10ge0/0",
+   "tx_kbps": 477.244066,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1712966400000,
+   "count": 283,
+   "interface": "ge2/0",
+   "tx_kbps": 546.165182,
+   "rx_kbps": 3902.993674
+  },
+  {
+   "entry_time": 1712966400000,
+   "count": 283,
+   "interface": "ge2/1",
+   "tx_kbps": 815.341038,
+   "rx_kbps": 2675.017786
+  },
+  {
+   "entry_time": 1712966400000,
+   "count": 283,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.993213
+  },
+  {
+   "entry_time": 1712966400000,
+   "count": 283,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1713052800000,
+   "count": 286,
+   "interface": "10ge0/0",
+   "tx_kbps": 795.194021,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1713052800000,
+   "count": 286,
+   "interface": "ge2/0",
+   "tx_kbps": 677.632349,
+   "rx_kbps": 3069.667178
+  },
+  {
+   "entry_time": 1713052800000,
+   "count": 286,
+   "interface": "ge2/1",
+   "tx_kbps": 828.624469,
+   "rx_kbps": 3519.17283
+  },
+  {
+   "entry_time": 1713052800000,
+   "count": 286,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.001164
+  },
+  {
+   "entry_time": 1713052800000,
+   "count": 286,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1713139200000,
+   "count": 276,
+   "interface": "10ge0/0",
+   "tx_kbps": 985.140701,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1713139200000,
+   "count": 276,
+   "interface": "ge2/0",
+   "tx_kbps": 1367.510891,
+   "rx_kbps": 7362.174702
+  },
+  {
+   "entry_time": 1713139200000,
+   "count": 276,
+   "interface": "ge2/1",
+   "tx_kbps": 1437.30565,
+   "rx_kbps": 7113.68407
+  },
+  {
+   "entry_time": 1713139200000,
+   "count": 276,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.996112
+  },
+  {
+   "entry_time": 1713139200000,
+   "count": 276,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1713225600000,
+   "count": 278,
+   "interface": "10ge0/0",
+   "tx_kbps": 969.288838,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1713225600000,
+   "count": 278,
+   "interface": "ge2/0",
+   "tx_kbps": 1002.169811,
+   "rx_kbps": 7140.159255
+  },
+  {
+   "entry_time": 1713225600000,
+   "count": 278,
+   "interface": "ge2/1",
+   "tx_kbps": 1570.966768,
+   "rx_kbps": 7632.182315
+  },
+  {
+   "entry_time": 1713225600000,
+   "count": 278,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 10.992159
+  },
+  {
+   "entry_time": 1713225600000,
+   "count": 278,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  },
+  {
+   "entry_time": 1713312000000,
+   "count": 254,
+   "interface": "10ge0/0",
+   "tx_kbps": 1178.076161,
+   "rx_kbps": 1.0
+  },
+  {
+   "entry_time": 1713312000000,
+   "count": 254,
+   "interface": "ge2/0",
+   "tx_kbps": 1275.203869,
+   "rx_kbps": 6047.442916
+  },
+  {
+   "entry_time": 1713312000000,
+   "count": 254,
+   "interface": "ge2/1",
+   "tx_kbps": 1577.240589,
+   "rx_kbps": 5453.066396
+  },
+  {
+   "entry_time": 1713312000000,
+   "count": 254,
+   "interface": "mgmt0",
+   "tx_kbps": 0.0,
+   "rx_kbps": 11.008055
+  },
+  {
+   "entry_time": 1713312000000,
+   "count": 254,
+   "interface": "system",
+   "tx_kbps": 0.0,
+   "rx_kbps": 0.0
+  }
+ ]
+}
